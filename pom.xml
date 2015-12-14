@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openphacts.data</groupId>
   <artifactId>ops-rsc-linksets</artifactId>
-  <version>0.20151104.1-SNAPSHOT</version>
+  <version>0.20151104.0-SNAPSHOT</version>
   <packaging>data</packaging>
   <name>Open PHACTS Chembl linksets</name>
   <url>https://github.com/openphacts/ops-rsc-linksets</url>
@@ -45,7 +45,7 @@
             <artifactItem>
               <groupId>org.openphacts.data</groupId>
               <artifactId>ops-rsc-dataset</artifactId>
-              <version>0.20151104.1-SNAPSHOT</version>
+              <version>0.20151104.0-SNAPSHOT</version>
               <type>data.zip</type>
             </artifactItem>
           </artifactItems>
