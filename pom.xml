@@ -45,7 +45,7 @@
             <artifactItem>
               <groupId>org.openphacts.data</groupId>
               <artifactId>ops-rsc-dataset</artifactId>
-              <version>20151104-SNAPSHOT</version>
+              <version>0.20151104.1-SNAPSHOT</version>
               <type>data.zip</type>
             </artifactItem>
           </artifactItems>
